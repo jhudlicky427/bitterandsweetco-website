@@ -99,7 +99,7 @@ export default function Contact() {
                     <MapPin className="text-pink-200" size={20} />
                   </div>
                   <div>
-                    <p className="text-xs text-purple-300 font-bold mb-1 tracking-wider">MOBILE COFFEE TRAILER</p>
+                    <p className="text-xs text-purple-300 font-bold mb-1 tracking-wider">MOBILE TRAILER</p>
                     <p className="text-lg text-gray-100 font-semibold" style={{ textShadow: '0 2px 6px rgba(0, 0, 0, 0.8)' }}>
                       Serving the Denver Metro Area
                     </p>
@@ -131,7 +131,7 @@ export default function Contact() {
                   <div className="w-6 h-6 rounded-lg bg-gradient-to-br from-indigo-500/50 to-purple-600/50 flex items-center justify-center flex-shrink-0 shadow-lg group-hover/item:shadow-indigo-500/40 transition-all duration-500 mt-0.5">
                     <span className="text-indigo-200 text-sm font-bold">✓</span>
                   </div>
-                  <span className="leading-relaxed" style={{ textShadow: '0 2px 6px rgba(0, 0, 0, 0.8)' }}>Premium coffee and unique beverage recipes</span>
+                  <span className="leading-relaxed" style={{ textShadow: '0 2px 6px rgba(0, 0, 0, 0.8)' }}>Beverages using premium ingredients</span>
                 </li>
                 <li className="flex items-start space-x-3 group/item">
                   <div className="w-6 h-6 rounded-lg bg-gradient-to-br from-purple-500/50 to-pink-600/50 flex items-center justify-center flex-shrink-0 shadow-lg group-hover/item:shadow-purple-500/40 transition-all duration-500 mt-0.5">
